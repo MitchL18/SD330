@@ -1,0 +1,55 @@
+<!DOCTYPE html? <html lang="en">
+
+<head>
+    <title> E04-Levy </title>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="fridge.css">
+
+</head>
+
+
+<body onload="doStartClock();">
+    <h1> Interactive Fridge Interface </h1>
+
+    <div id="outerDiv" class="fridgeBorder">
+
+
+        <div id="buttonsTop">
+            <input type="button" onclick="power()" id="powerBut" value="TURN OFF">
+            <input type="button" onclick="door()" id="door" value="OPEN FRIDGE">
+            <p id="timePar" style="font-size: 1em;font-family: 'Courier New', Courier, monospace;
+            text-align: end;">00:00:00</p>
+        </div>
+
+        <div id="fridge">
+            <img src="https://www.digitaltrends.com/wp-content/uploads/2016/01/Samsung-4-Door-Flex-Refrigerator-with-Family-Hub-.jpg?fit=859%2C572&p=1"
+                id="fridgePic" width=800px height=600px>
+            <br>
+            <br>
+        </div>
+
+
+
+        <div id="buttonsBottom">
+            <input type="button" onclick="google()" id="googleBut" value="GOOGLE">
+            <input type="button" onclick="tv()" id="tvBut" value="TV">
+            <input type="button" onclick="music()" id="musicBut" value="MUSIC">
+        </div>
+
+
+    </div>
+
+    <p style="clear:left;"></p>
+
+    <footer>
+        <hr>
+        <small> &copy; M. Levy, February 29, 2024 </small>
+    </footer>
+</body>
+
+
+<script src="fridge.js"> </script>
+
+
+</html>
