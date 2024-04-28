@@ -1,0 +1,234 @@
+{
+    "parkingLot": [
+        {
+            "name": "Foy",
+            "map": "Foy.jpeg",
+            "numOfSpaces": "60",
+            "comments": "Lot is open and operating as normal.",
+            "numOfOpenSpaces": "33",
+            "space": [
+                {
+                    "number": "1",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Available",
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "2",
+                    "Type": "Staff",
+                    "Handicap": "No",
+                    "Status": "Filled",
+                    "Filled Time": "3:00 P.M",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "3",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Reserved",
+                    "Filled Time": "NA",
+                    "Reserved Time": "8:00 A.M"
+                },
+                {
+                    "number": "4",
+                    "Type": "Student",
+                    "Handicap": "Yes",
+                    "Status": "Available",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "NA"
+                },
+                {
+                    "number": "5",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Filled",
+                    "Filled Date/Time": "5:00 P.M",
+                    "Reserved Date/Time": "NA"
+                },
+                {
+                    "number": "6",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Reserved",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "3:00 P.M"
+                },
+                {
+                    "number": "7",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Available",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "NA"
+                },
+                {
+                    "number": "8",
+                    "Type": "Staff",
+                    "Handicap": "Yes",
+                    "Status": "Filled",
+                    "Filled Date/Time": "11:00 A.M",
+                    "Reserved Date/Time": "NA"
+                },
+                {
+                    "number": "9",
+                    "Type": "Student",
+                    "Handicap": "Yes",
+                    "Status": "Available",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "NA"
+                },
+                {
+                    "number": "10",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Reserved",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "12:00 P.M"
+                },
+                {
+                    "number": "11",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Filled",
+                    "Filled Date/Time": "6:15 P/M",
+                    "Reserved Date/Time": "NA"
+                },
+                {
+                    "number": "12",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Reserved",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "9:15 A.M"
+                }
+            ]
+        },
+        {
+            "name": "Donnelly",
+            "map": "Donnelly.jpeg",
+            "numOfSpaces": "67",
+            "comments": "Lot is busy, only a few spots left.",
+            "numOfOpenSpaces": "6",
+            "space": [
+                {
+                    "number": "1",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Available",
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "2",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Reserved",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "9:15 A.M"
+                }
+            ]
+        },
+        {
+            "name": "McCann",
+            "map": "McCann.jpeg",
+            "numOfSpaces": "45",
+            "comments": "Lot is full No available spots.",
+            "numOfOpenSpaces": "0",
+            "space": [
+                {
+                    "number": "1",
+                    "Type": "Faculty",
+                    "Handicap": "Yes",
+                    "Status": "Available",
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "2",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Filled",
+                    "Filled Date/Time": "1:00 P.M",
+                    "Reserved Date/Time": "NA"
+                }
+            ]
+        },
+        {
+            "name": "Riverview",
+            "map": "Riverview.jpeg",
+            "numOfSpaces": "36",
+            "comments": "Lot is empty All spots available.",
+            "numOfOpenSpaces": "36",
+            "space": [
+                {
+                    "number": "1",
+                    "Type": "Faculty",
+                    "Handicap": "Yes",
+                    "Status": "Available",
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "2",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Available",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "NA"
+                }
+            ]
+        },
+        {
+            "name": "Fontaine",
+            "map": "Fontaine.jpeg",
+            "numOfSpaces": "50",
+            "comments": "Lot is closed due to construction.",
+            "numOfOpenSpaces": "0",
+            "space": [
+                {
+                    "number": "1",
+                    "Type": "Faculty",
+                    "Handicap": "Yes",
+                    "Status": "Available",
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "2",
+                    "Type": "Student",
+                    "Handicap": "No",
+                    "Status": "Filled",
+                    "Filled Date/Time": "11:00 A.M",
+                    "Reserved Date/Time": "NA"
+                }
+            ]
+        },
+        {
+            "name": "Dyson",
+            "map": "Dyson.jpeg",
+            "numOfSpaces": "80",
+            "comments": "Lot is open with only a few spots taken.",
+            "numOfOpenSpaces": "72",
+            "space": [
+                {
+                    "number": "1",
+                    "Type": "Faculty",
+                    "Handicap": "No",
+                    "Status": "Available",
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
+                },
+                {
+                    "number": "2",
+                    "Type": "Student",
+                    "Handicap": "Yes",
+                    "Status": "Reserved",
+                    "Filled Date/Time": "NA",
+                    "Reserved Date/Time": "1:00 P.M"
+                }
+            ]
+        }
+    ]
+}
