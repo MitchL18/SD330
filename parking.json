@@ -36,16 +36,16 @@
                     "Type": "Student",
                     "Handicap": "Yes",
                     "Status": "Available",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "NA"
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
                 },
                 {
                     "number": "5",
                     "Type": "Faculty",
                     "Handicap": "No",
                     "Status": "Filled",
-                    "Filled Date/Time": "5:00 P.M",
-                    "Reserved Date/Time": "NA"
+                    "Filled Time": "5:00 P.M",
+                    "Reserved Time": "NA"
                 },
                 {
                     "number": "6",
@@ -60,8 +60,8 @@
                     "Type": "Student",
                     "Handicap": "No",
                     "Status": "Available",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "NA"
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
                 },
                 {
                     "number": "8",
@@ -84,8 +84,8 @@
                     "Type": "Faculty",
                     "Handicap": "No",
                     "Status": "Reserved",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "12:00 P.M"
+                    "Filled Time": "NA",
+                    "Reserved Time": "12:00 P.M"
                 },
                 {
                     "number": "11",
@@ -100,8 +100,8 @@
                     "Type": "Faculty",
                     "Handicap": "No",
                     "Status": "Reserved",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "9:15 A.M"
+                    "Filled Time": "NA",
+                    "Reserved Time": "9:15 A.M"
                 }
             ]
         },
@@ -125,8 +125,8 @@
                     "Type": "Faculty",
                     "Handicap": "No",
                     "Status": "Reserved",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "9:15 A.M"
+                    "Filled Time": "NA",
+                    "Reserved Time": "9:15 A.M"
                 }
             ]
         },
@@ -150,8 +150,8 @@
                     "Type": "Faculty",
                     "Handicap": "No",
                     "Status": "Filled",
-                    "Filled Date/Time": "1:00 P.M",
-                    "Reserved Date/Time": "NA"
+                    "Filled Time": "1:00 P.M",
+                    "Reserved Time": "NA"
                 }
             ]
         },
@@ -175,8 +175,8 @@
                     "Type": "Student",
                     "Handicap": "No",
                     "Status": "Available",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "NA"
+                    "Filled Time": "NA",
+                    "Reserved Time": "NA"
                 }
             ]
         },
@@ -200,8 +200,8 @@
                     "Type": "Student",
                     "Handicap": "No",
                     "Status": "Filled",
-                    "Filled Date/Time": "11:00 A.M",
-                    "Reserved Date/Time": "NA"
+                    "Filled Time": "11:00 A.M",
+                    "Reserved Time": "NA"
                 }
             ]
         },
@@ -225,8 +225,8 @@
                     "Type": "Student",
                     "Handicap": "Yes",
                     "Status": "Reserved",
-                    "Filled Date/Time": "NA",
-                    "Reserved Date/Time": "1:00 P.M"
+                    "Filled Time": "NA",
+                    "Reserved Time": "1:00 P.M"
                 }
             ]
         }
